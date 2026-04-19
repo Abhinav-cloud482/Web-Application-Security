@@ -64,7 +64,10 @@ Legal Warning : This tool is for educational purposes and authorized penetration
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
 ## Author
 
 Abhinav Dixit
+
+Python Developer | Data & ML Enthusiast
+
+- Feel free to fork, star, or contribute to this project!
