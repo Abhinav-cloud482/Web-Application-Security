@@ -63,3 +63,8 @@ Legal Warning : This tool is for educational purposes and authorized penetration
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Author
+
+Abhinav Dixit
